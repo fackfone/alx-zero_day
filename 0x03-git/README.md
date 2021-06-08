@@ -1,1 +1,2 @@
 - Hello I'm now a ALX Student and we are going to follow this week with you.
+- Get the job done
